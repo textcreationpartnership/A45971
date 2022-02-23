@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for granting unto His Majesty, an aid or additional custom on the several goods and merchandizes therein mentioned</title>
+            <title>Public General Acts. 1695. 7 Wil.III.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45971</idno>
+            <idno type="STC">Wing I307</idno>
+            <idno type="STC">ESTC R216030</idno>
+            <idno type="EEBO-CITATION">99827784</idno>
+            <idno type="PROQUEST">99827784</idno>
+            <idno type="VID">32207</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32207)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for granting unto His Majesty, an aid or additional custom on the several goods and merchandizes therein mentioned</title>
+                  <title>Public General Acts. 1695. 7 Wil.III.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook, printer to the Kings Most Excellent Majesty, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Enacted: Public General Acts, 1695. 7 Wil.III.</note>
+                  <note>Running title reads: Anno regni septimo Gulielmi Tertii.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32207:1"/>
+            <!-- PDF PAGE 11 -->
+            <p>AN ACT For prevention of FRAUDS and PERJURIES.</p>
+            <figure>
+               <figDesc>W R
+HONI SOIT QVI MAL Y PENSE
+IE MEIN TIENDRAI</figDesc>
+            </figure>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:32207:2"/>
+            <!-- PDF PAGE 12 -->
+            <pb n="3" facs="tcp:32207:2"/>
+            <!-- PDF PAGE 12 -->
+            <head>An Act for Granting unto His Majeſty, An Aid or Additional Cuſtom on the Several Goods and Merchandizes therein mentioned.</head>
+            <p>WE your Majeſties Moſt Loyal Sub<g ref="char:EOLhyphen"/>jects the Commons of <hi>Ireland,</hi> in Par<g ref="char:EOLhyphen"/>liament Aſſembled, being Convinced that the Supplies already Granted unto Your Majeſty this Seſſion of Parliament, are not Sufficient to Anſwer Your Majeſties Oc<g ref="char:EOLhyphen"/>caſions; And deſiring to ſhew the ſenſe we have of the great benefit we daily reap under your Moſt happy Government, which we Reſolve always to ſupport with ſuch Neceſſary Supplies of Money as your Majeſties Affairs Require, and the Con<g ref="char:EOLhyphen"/>dition of the Kingdom will bear, Have Given and Granted unto Your Excellent Majeſty, An Aid or Additional Duty to be Raiſed and Levyed upon the Goods and Merchandizes following (That is to ſay) On Tobacco, Old-Drapery, New-Dra<g ref="char:EOLhyphen"/>pery, Muſlin, Callicoes; all ſorts of Linnen, Scotch-Cloth, and Wine that ſhall be Import<g ref="char:EOLhyphen"/>ed into this Kingdom, according to ſuch Rates, and during ſuch time, and in ſuch Manner and Form as is herein after mentioned and Expreſſed. And We humbly beſeéch Your Majeſty that it may be Enacted.</p>
+            <p>And be it Enacted, by the King's Moſt Excellent Majeſty, by and with the Advice and Conſent of the<g ref="char:punc">▪</g> Lords Spiritual and Temporal, and the Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament Aſſembled, and
+<pb n="4" facs="tcp:32207:3"/>
+               <!-- PDF PAGE 13 -->by the Authority of the ſame, That all Tobacco, Old-Drapery and New-Drapery (Except ſuch Old and New-Drapery that ſhall be of the Ma<g ref="char:EOLhyphen"/>nufacture of <hi>England,</hi> and Imported thence) Muſlin, Callicoes; All ſorts of Linnen, Scotch-Cloth, and Wines (Except Wines of the Growth of <hi>Spain,</hi> and of the Dominions thereunto be<g ref="char:EOLhyphen"/>longing) that ſhall be Imported into this Kingdom at any time from and after the Day of the Royal Aſſent given to this Act, unto the Twenty Fifth Day of <hi>December,</hi> which will be in the Year of Our Lord God, One Thouſand, Sir Hundred, Ninety and Nine, and no longer, ſhal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Anſwer and Pay unto His Majeſty, His Heirs and Succeſſors, over and above all Rates and Duties Due or Payable for, or out of the ſame, by Vertue of any former Law or Laws in Force at the Making of this Act, the Rates and Duties hereafter mentioned (that is to ſay) For every pound weight of Tobacco, Imported within the time aforeſaid, one penny half peny, <hi>ſterl.</hi> And for every Yard of Old-Drapery Imported within the time aforeſaid, Except as before Ex<g ref="char:EOLhyphen"/>cepted, Twelve-pence, <hi>ſterl.</hi> And for every Yard of New-Drapery Imported within the time afore<g ref="char:EOLhyphen"/>ſaid, Except as before Excepted, Four-pence, <hi>ſterl.</hi> And for every Ell of Muſlin, Callico, and of all and of every other ſorts of Linnen Imported, with<g ref="char:EOLhyphen"/>in the time aforeſaid (Scotch-Cloth Excepted) Six-pence, <hi>ſterl.</hi> And for every yard of Scotch-Cloth Imported, within the time aforeſaid, Six-pence, <hi>ſterl.</hi> And for every Tun of Wine (Ex<g ref="char:EOLhyphen"/>cept Wines of the Growth of <hi>Spain,</hi> and of the Dominions thereunto belonging) Imported within the time aforeſaid, Three Pounds, <hi>ſterl.</hi>
+               <pb n="5" facs="tcp:32207:3"/>
+               <!-- PDF PAGE 13 -->And ſo proportionably for a Greater or Leſſer Quantity.</p>
+            <p>And be it further Enacted, by the Authority aforeſaid<g ref="char:punc">▪</g> That the ſaid ſeveral Duties ſhall be Raiſed, Collected, Levyed and paid unto Your Majeſty, Your Heirs and Succeſſors, during the time aforeſaid, at the ſame times, and in the ſame manner and Places, and by ſuch Rules, Means and Ways, and under ſuch Penalties and For<g ref="char:EOLhyphen"/>feitures as are mentioned and Expreſſed in one Act of Parliament made in a Seſſion of Parlia<g ref="char:EOLhyphen"/>ment which began the Eighth day of <hi>May,</hi> in the Thirteenth Year of the Reign of the Late King <hi>Charles</hi> the Second, Intituled, <hi>An Act for Settling the Exciſe, or New Impoſe,</hi> upon the ſaid Late King <hi>Charles</hi> the Second, His Heirs and Succeſſors; the ſame to be paid upon Merchandizes Import<g ref="char:EOLhyphen"/>ed and Exported into or out of the Kingdom of <hi>Ireland,</hi> according to the Book of Rates to the ſaid Act Annexed.</p>
+            <p>And whereas ſome Doubt hath lately Ariſen, whether Tobacco Imported into this Kingdom ought to Pay, or is Chargeable with, unto His Majeſty any Greater Duty upon any Account whatſoever then two pence half-penny for every Pound Weight, by Vertue of any Law or Laws in Force before the Making of this Act. For the Settling whereof, and for prevention of all Con<g ref="char:EOLhyphen"/>troverſy for the Future touching the ſame.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it Enacted and Declared, by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That no more then Two-pence half-penny for Every Pound Weight of Tobac<g ref="char:EOLhyphen"/>co Imported into this Kingdom, was, or is Pay<g ref="char:EOLhyphen"/>able, or Do, or Did of Right belong unto His Majeſty, or any of his Predeceſſors, by Vertue
+<pb n="6" facs="tcp:32207:4"/>
+               <!-- PDF PAGE 14 -->aforeſaid. That any Perſon or Perſons wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall before any Perſon or Perſons Impowered, by Vertue of this Act, as aforeſaid, to take Bail or Bails, Repreſent or Perſonate any other Perſon or Perſons, whereby the Perſon or Per<g ref="char:EOLhyphen"/>ſons ſo Repreſented and Perſonated, may be ly<g ref="char:EOLhyphen"/>able to the Payment of any Summ or Summs of Money, for Debt or Damages; to be Reco<g ref="char:EOLhyphen"/>vered in the ſame Suit or Action wherein ſuch Perſon or Perſons are Repreſented and Perſo<g ref="char:EOLhyphen"/>nated, as if they had Really Acknowledged and Entred into the ſame, being Lawfully Con<g ref="char:EOLhyphen"/>victed thereof, ſhall be Adjudged, Eſteémed, and Taken to be Felons, and ſuffer the Pains of Death; And Incurr ſuch Forfeitures and Pe<g ref="char:EOLhyphen"/>nalties as Felons, in other Caſes Convicted or Attainted, do by the Law of this Realm Loſe and Forfeit.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
